@@ -1,0 +1,55 @@
+body{
+    margin: 1;
+    padding: 1;
+    
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h1{
+    text-align: center;
+    color: black;
+    padding: 25px;
+    font-size: 50px;
+}
+
+.login{
+    width: 380px;
+    height: 400px;
+    overflow: hidden;
+    margin: auto;
+    margin: 30 0 0 460px;
+    padding: 90px;
+    background-color: grey;
+    border-radius: 20px;
+}
+
+#uname{
+    width: 350px;
+    height: 35px;
+    border: ivory;
+    border-radius: 3px;
+    padding-left: 10px;
+}
+#log{
+    width: 350px;
+    height: 35px;
+    border: ivory;
+    border-radius: 3px;
+    padding-left: 10px;
+    color: blue;
+}
+#pwd{
+    width: 350px;
+    height: 35px;
+    border: ivory;
+    border-radius: 3px;
+    padding-left: 10px; 
+}
+h2{
+    text-align: center;
+    
+    padding: 25px;
+}
+a{
+    background-color: grey;
+}

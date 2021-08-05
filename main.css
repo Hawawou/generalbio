@@ -1,0 +1,74 @@
+body{
+    margin: 2;
+    padding: 2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.container{
+    width: 400px;
+    height: fit-content;
+    overflow: hidden;
+    margin: auto;
+    margin: 30 0 0 400px;
+    padding: 90px;
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    color: blue;
+    padding: 25px;
+}
+
+#txt_area{
+    width: 450px;
+    height: 180px;
+    border: cornflowerblue;
+    border-radius: 3px;
+    padding-left: 12px;
+
+}
+#dat{
+    width: 450px;
+    height: 35px;
+    padding-left: 10px;
+    border: cornflowerblue;
+    border-radius: 3px;
+
+}
+#nom{
+    width: 450px;
+    height: 35px;
+    padding-left: 10px;
+    border: cornflowerblue;
+    border-radius: 3px;
+}
+#lname{
+    width: 450px;
+    height: 35px;
+    padding-left: 10px;
+    border: cornflowerblue;
+    border-radius: 3px;
+}
+#button[type="submit"]:hover{
+	cursor: pointer;
+	
+    color: #000;
+    height: 50px;
+    width: 70px;   
+}
+#button[type="submit"]{
+    width: 60px;
+    height: 40px;
+    border: none;
+    border-radius: 30% 30% 0;
+}
+.navbar-brand{
+    align-content: flex-end;
+    color: #555!important;
+	font-weight: 500;
+	font-size: 16px;
+}
+.wrapper{
+    align-content: center;
+}
